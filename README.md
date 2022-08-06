@@ -1,2 +1,2 @@
 # codeWarsAlgos
-My solution to algorithm challenges on codewars
+My solutions to algorithm challenges on codewars
