@@ -1,4 +1,4 @@
-package kata8.algo05LocalizeTheBarycenterOfATriangle;
+package kata8.algo05localizeTheBarycenterOfATriangle;
 
 class Barycenter {
 
