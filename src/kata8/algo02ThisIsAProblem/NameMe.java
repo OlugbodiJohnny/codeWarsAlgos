@@ -1,4 +1,4 @@
-package kata8.algo02thisIsAProblem;
+package kata8.algo02ThisIsAProblem;
 
 public class NameMe {
     public String firstName;

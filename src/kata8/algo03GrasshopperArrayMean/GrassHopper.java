@@ -1,4 +1,4 @@
-package kata8.algo03grasshopperArrayMean;
+package kata8.algo03GrasshopperArrayMean;
 
 import java.util.Arrays;
 

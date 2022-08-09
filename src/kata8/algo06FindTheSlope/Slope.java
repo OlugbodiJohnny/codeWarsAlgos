@@ -1,4 +1,4 @@
-package kata8.algo06findTheSlope;
+package kata8.algo06FindTheSlope;
 
 public class Slope {
     public String slope(int[] points) {

@@ -1,4 +1,4 @@
-package kata8.algo01colorGhost;
+package kata8.algo01ColorGhost;
 
 public class Ghost {
     // your code goes here
